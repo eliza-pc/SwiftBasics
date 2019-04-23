@@ -100,11 +100,7 @@ for musica in test {
 
 print("\nA soma do tempo das musicas que nao ultrapassam o tempo limite é: \(somaFull/60) minutos.")
 
-func primeiraMusicaFavorita(daPlaylist playlist: [Musica],queTemRating: Int) -> Musica{
-    
-    if 
-    
-}
+
 //var totalDeMusicasFavoritas: Int = 0
 //
 //var musicaMaisLonga: Musica? = nil
