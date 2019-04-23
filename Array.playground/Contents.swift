@@ -32,7 +32,8 @@ struct Livro{
 
 
 let livrosQueLi: [Livro] = [
-    Livro(nome: "After", autor: "Anna Todd", editora: "Paralelo", genero: "Romance", numeroDePaginas: -1, edicao: -1),
+    Livro(nome: "As Duas Torres", autor: "J. R. R. Tolkien", editora: "Allen & Unwin", genero: "Literatura fantástica", numeroDePaginas: 352, edicao: 1),
+     Livro(nome: "O Retorno do Rei", autor: "J. R. R. Tolkien", editora: "Allen & Unwin", genero: "Literatura fantástica", numeroDePaginas: 416, edicao: 1),
 //    Livro(nome: "aa", autor: "a", editora: "a", genero: "a", numeroDePaginas: -1, edicao: -1),
 //    Livro(nome: "b", autor: "b", editora: "b", genero: "b", numeroDePaginas: -1, edicao: -1)
 
