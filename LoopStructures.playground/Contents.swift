@@ -49,7 +49,7 @@ for livro in livrosQueLi{
     
 }
 
-print("Eu tenho \(contador) livros publicados depoisde 2000")
+print("Eu tenho \(contador) livros publicados depois de 2000")
 print("Até agora eu li \(totalDePaginas) paginas")
 
 var livroSelecionado: Livro? = nil
